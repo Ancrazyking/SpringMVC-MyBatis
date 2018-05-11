@@ -30,5 +30,6 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="servlet" level="application" />
+    <orderEntry type="library" name="JSONSupport" level="application" />
   </component>
 </module>
